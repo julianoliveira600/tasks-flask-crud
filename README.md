@@ -1,3 +1,3 @@
 # tasks-flask-crud
 
-Esse repositório foi criado durante o curso de pythonna Rocketseat
+Esse repositório foi criado durante o curso de python na Rocketseat
